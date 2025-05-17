@@ -1,7 +1,7 @@
 package main
 import "fmt"
 
-func main(){
+func Main(){
 	i:=1
 	for i <=5 {
 		fmt.Println(i)

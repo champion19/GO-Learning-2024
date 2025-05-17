@@ -2,7 +2,7 @@ package main
 import "fmt"
 
 
-func main(){
+func MAin(){
 /*	number := 1
 opcion 1 while
 

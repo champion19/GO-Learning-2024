@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func MAIN(){
 	/*
 	if 10<20 {
 		fmt.Println("10 es menor que 20")
